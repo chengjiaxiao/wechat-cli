@@ -62,7 +62,7 @@ def scan_memory_for_keys(data, hex_re, db_files, salt_to_dbs, key_map,
     """
     matches = 0
     for m in hex_re.finditer(data):
-        hex_str = m.group(1).decode()
+        hex_str = m.group(1).decode().lower()
         addr = base_addr + m.start()
         matches += 1
         hex_len = len(hex_str)

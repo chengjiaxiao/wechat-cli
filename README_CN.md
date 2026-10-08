@@ -2,6 +2,8 @@
 
 # WeChat CLI
 
+Windows 4.1 的安装、`Config.Cipher` 密钥提取适配及实测范围见 [Windows 配置与维护](docs/windows.md)。
+
 **命令行查询本地微信数据，专为 AI 集成设计。**
 
 [![npm version](https://img.shields.io/npm/v/@canghe_ai/wechat-cli.svg)](https://www.npmjs.com/package/@canghe_ai/wechat-cli)

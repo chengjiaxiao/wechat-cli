@@ -2,6 +2,9 @@
 
 # WeChat CLI
 
+For Windows 4.1 setup, `Config.Cipher` key extraction, and verified client versions,
+see [Windows setup and maintenance](docs/windows.md).
+
 **Query your local WeChat data from the command line.**
 
 [![npm version](https://img.shields.io/npm/v/@canghe_ai/wechat-cli.svg)](https://www.npmjs.com/package/@canghe_ai/wechat-cli)
